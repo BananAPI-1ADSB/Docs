@@ -1,0 +1,13 @@
+- Sidebar
+Links de navegação
+
+- KPIs
+Temperatura atual de cada câmara
+
+- Gráfico
+Selecionar o gráfico
+Exibir o gráfico de temperaturas de acordo com câmara selecionado
+
+
+- Status Geral
+Card na parte inferior direita exibindo um dos seguintes status: 'Crítico'; 'Cuidado'; 'Estável'
